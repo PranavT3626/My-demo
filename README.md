@@ -1,3 +1,3 @@
 # My-demo
-This is my first repository
-Author = Pranav
+This is my first repository.
+Author - Pranav
